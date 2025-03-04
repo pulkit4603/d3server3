@@ -113,5 +113,43 @@
         }
       }
     }
+  ],
+  "scheduled": [
+    {
+      "id": 1,
+      "title": "Weekly Progress Review",
+      "with": "Mike Fitness",
+      "date": "2025-02-28T10:00:00.000Z",
+      "duration": "30min",
+      "type": "online",
+      "isFinalized": true
+    },
+    {
+      "id": 2,
+      "title": "Diet Consultation",
+      "with": "Seb Bluff",
+      "date": "2025-02-28T15:30:00.000Z",
+      "duration": "30min",
+      "type": "online",
+      "isFinalized": true
+    },
+    {
+      "id": 3,
+      "with": "Mike Fitness",
+      "date": "2025-02-28T10:30:00.000Z",
+      "duration": "15min",
+      "type": "online",
+      "isFinalized": false,
+      "agenda": "Questions about donuts"
+    },
+    {
+      "id": 4,
+      "with": "Mike Fitness",
+      "date": "2025-02-28T10:30:00.000Z",
+      "duration": "15min",
+      "type": "online",
+      "isFinalized": false,
+      "agenda": "Questions about donuts"
+    }
   ]
 }
